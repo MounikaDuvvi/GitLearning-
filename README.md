@@ -1,2 +1,2 @@
 # GitLearning-
-This is my new first repository
+This is my first repository
